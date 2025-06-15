@@ -3,7 +3,8 @@
 Fashionista-Shop is a full-stack e-commerce platform for fashion products, featuring a personalized product recommendation system powered by machine learning.
 
 The system uses **K-Means clustering** to provide intelligent product suggestions based on user search behavior and preferences, enhancing the shopping experience through relevant recommendations.
-
+---
+![Alt text](https://github.com/sihamkalach/Fashionista-Shop/blob/4d5db7bc595a00d334625d0a06fdbcc4352b0aec/fashionista-media/fashionista%20architecture.png)
 ---
 
 ## 📄 Project Documentation
