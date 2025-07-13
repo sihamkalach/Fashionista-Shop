@@ -48,7 +48,7 @@ The system uses **K-Means clustering** to provide intelligent product suggestion
 
 Fashionista-Shop is deployed using **Amazon Web Services (AWS)** to ensure scalability, security, and high availability.
 
-![AWS Architecture](https://github.com/sihamkalach/Fashionista-Shop/blob/main/fashionista-media/aws%20Architecture%20for%20fashionista.png)
+![AWS Architecture](https://github.com/sihamkalach/Fashionista-Shop/blob/525577db271a649336e83349ec72b605a2b9799e/deploiement/aws%20Architecture%20for%20fashionista.png)
 
 ### 🔧 AWS Services Used:
 
